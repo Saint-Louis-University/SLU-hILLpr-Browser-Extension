@@ -8,7 +8,7 @@ To provide a faster, more efficient way to place ILL requests in Firefox
 
 **Technology Overview**
 
-* [MDN web docs - Browser Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+[MDN web docs - Browser Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 
 **Prerequisites**
 

@@ -1,10 +1,10 @@
 # SLU-hILLpr Browser Extension
 
-Firefox browser extension to copy [WorldCat](https://www.worldcat.org) item information to a SLU Interlibrary Loan (ILL) request page
+Firefox or Chrome browser extension to copy [WorldCat](https://www.worldcat.org) item information to a SLU Interlibrary Loan (ILL) request page
 
 **Goal** 
 
-To provide a faster, more efficient way to place ILL requests in Firefox
+To provide a faster, more efficient way to place ILL requests
 
 **Technology Overview**
 

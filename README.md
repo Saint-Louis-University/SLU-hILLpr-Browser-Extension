@@ -1,4 +1,4 @@
-# SLU-hILLpr-Browser-Extension
+# SLU-hILLpr Browser Extension
 
 Firefox browser extension to copy [WorldCat](https://www.worldcat.org) item information to a SLU Interlibrary Loan (ILL) request page
 
@@ -8,15 +8,20 @@ To provide a faster, more efficient way to place ILL requests in Firefox
 
 **Technology Overview**
 
-[MDN web docs - Browser Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [MDN webdocs - Browser Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Chrome Developer's Guide](https://developer.chrome.com/extensions/devguide)
+* [Apache Ant](https://ant.apache.org)
 
 **Prerequisites**
 
-Firefox 50.0
+* Firefox 50.0
+* Chrome 21.0
 
 ## Getting Started
 
-This extension is registered with Mozilla and hosted [here](https://www.themadstatter.com/slu/webextensions/slu-hILLpr).
+* Firefox version is registered with Mozilla and hosted [here](https://addons.mozilla.org/en-US/firefox/addon/slu-hillpr).
+
+* Chrome version is hosted on the [Chrome Webstore](https://chrome.google.com/webstore/detail/slu-hillpr/obgpgbkkejcfgifbcielhncffgfpkkfn).
 
 ## Resources
 
@@ -28,4 +33,4 @@ When viewing specific item information on [WorldCat](https://www.worldcat.org), 
 
 ## Authors / Owners
 
-[Matt Schuelke](mailto:matthew.schuelke@slu.edu)
+[Matthew Schuelke](mailto:schuelkem@slu.edu)

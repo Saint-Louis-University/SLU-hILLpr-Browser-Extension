@@ -4,27 +4,27 @@
 
   "name": "SLU hILLpr",
 
-  "version": "1.0",
+  "version": "1.1",
   
-  "author": "Matt Schuelke",
+  "author": "Matthew Schuelke",
 
   "description": "Copy worldcat.org information to SLU ILL request page",
 
   "homepage_url": "https://www.themadstatter.com/slu/webextensions/slu-hILLpr",
   
   "icons": {
-    "48": "icons/hILLpr-48.png"
+    "48":   "icons/slu-hILLpr-48.png",
+	"128":  "icons/slu-hILLpr-128.png",
+	"1024": "icons/slu-hILLpr-1024.png"
   },
   
   "applications": {
     "gecko": {
       "id": "slu-hILLpr@themadstatter.com",
-      "strict_min_version": "50.0",
-	  "update_url": "https://www.themadstatter.com/slu/webextensions/slu-hILLpr/firefox/updates.json"
+      "strict_min_version": "50.0"
     }
   },
 
-  
   "permissions": [
     "activeTab",
 	"tabs"
